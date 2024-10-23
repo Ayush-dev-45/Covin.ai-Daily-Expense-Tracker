@@ -2,6 +2,8 @@
 
 A real-time expense sharing application built with Node.js, Express, MongoDB, and Socket.IO. This application allows users to split expenses among friends and keep track of balances.
 
+For this I am strictly using local mongoDB instead of MongoDB Atlas
+
 ## Features
 
 - User authentication with JWT
